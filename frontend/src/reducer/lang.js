@@ -1,6 +1,7 @@
 import { UPDATE, LANG } from '../action-creator.sync.js'
 import flagEn from '../img/flag_en.png'
 import flagFr from '../img/flag_fr.png'
+import flagPt from '../img/flag_pt.png'
 
 const defaultLang = [{
   id: 'en',
